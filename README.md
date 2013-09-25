@@ -31,6 +31,14 @@ so you may want to give it time if it doesn't pick up instantly. You may also
 want to double check that the UUID is entered correctly if it doesn't seem to
 work.
 
+The passbook example uses a UUID of e2c56db5-dffb-48d2-b060-d0f5a71096e0, a
+marjor number of 1 and a minor number of 1. After installing it you can use
+the ibeacon program to advertise for it with the following options:
+
+```
+./ibeacon 200 e2c56db5dffb48d2b060d0f5a71096e0 1 1 -29
+```
+
 License
 =======
 
