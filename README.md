@@ -41,8 +41,8 @@ the ibeacon program to advertise for it with the following options:
 
 *Note*
 
-I've used both the (IOGEAR Bluetooth 4.0 USB Micro Adapter (GBU521))[http://www.amazon.com/dp/B007GFX0PY]
-and the (Cirago Bluetooth 4.0 USB Mini Adapter (BTA8000))[http://www.amazon.com/dp/B0090I9NRE] successfully.
+I've used both the [IOGEAR Bluetooth 4.0 USB Micro Adapter (GBU521)](http://www.amazon.com/dp/B007GFX0PY)
+and the [Cirago Bluetooth 4.0 USB Mini Adapter (BTA8000)](http://www.amazon.com/dp/B0090I9NRE) successfully.
 
 License
 =======
